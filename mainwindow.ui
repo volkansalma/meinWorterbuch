@@ -70,7 +70,7 @@
       <rect>
        <x>20</x>
        <y>60</y>
-       <width>31</width>
+       <width>41</width>
        <height>16</height>
       </rect>
      </property>
@@ -147,14 +147,6 @@
     </property>
    </widget>
    <addaction name="menuAbout"/>
-  </widget>
-  <widget class="QToolBar" name="mainToolBar">
-   <attribute name="toolBarArea">
-    <enum>TopToolBarArea</enum>
-   </attribute>
-   <attribute name="toolBarBreak">
-    <bool>false</bool>
-   </attribute>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
  </widget>
